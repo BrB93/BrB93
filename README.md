@@ -1,24 +1,46 @@
-👋 Welcome to My GitHub Profile!
-🚀 About Me
-Bonjour, je m'appelle Bryan, un développeur passionné en pleine reconversion, étudiant à l'école Coda Orléans. Avec une forte appétence pour les technologies modernes et une capacité à apprendre rapidement, je me concentre sur des projets concrets pour affiner mes compétences en programmation et répondre aux défis du monde numérique.
 
-💡 Projects and Highlights
-🌟 Fais pas ta pince
-Un site web dédié au partage d'outils entre voisins, favorisant l'économie collaborative et la durabilité. Développement orienté utilisateur avec un design responsive et fonctionnel.
 
-⚙️ AutO-RekO
-Contribution stratégique à un outil d’énumération automatique pour les tests de pénétration. Mon rôle : fournir des informations clés et un support méthodologique.
+# 👋 Welcome to My GitHub Profile!  
 
-🎮 Game Development
-Création de jeux rétro (Tic-Tac-Toe, Snake, Sokoban) en langage C, avec gestion des graphismes et des mécaniques de jeu, visibles dans mes repositories.
+![Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
 
-📚 Skills
-Langages : C, HTML/CSS, JavaScript
-Outils : Git, SDL, Figma
-Compétences : Développement Web, Algorithmique, Expérience Utilisateur (UX)
-🌱 Learning Goals
-Green IT pour réduire l'impact environnemental des projets numériques
-Approfondir mes compétences en développement web full-stack
-📫 Contact Me
-💼 LinkedIn
-🌐 GitHub Portfolio
+## 🚀 About Me  
+**Hi, I'm Bryan!**  
+🎓 Passionate about coding and currently transitioning into a tech career through my studies at **Coda Orléans**.  
+✨ I focus on creating efficient, sustainable, and user-friendly solutions.  
+
+---
+
+## 💡 Featured Projects  
+### 🌟 [Fais pas ta pince](https://github.com/BrB93/Fais-pas-ta-pince)  
+Web app for tool sharing in local communities, emphasizing **eco-responsibility** and **collaboration**.  
+
+### ⚙️ [AutO-RekO](https://github.com/rattus-digitalis/Autoreko)  
+Contributor to an **automatic enumeration tool** for ethical hacking. Provided strategic and technical support.  
+
+### 🎮 Game Development  
+Developed classic games like **Tic-Tac-Toe**, **Snake**, and **Sokoban** in C, showcasing logic and creativity.  
+
+---
+
+## 📚 Skills  
+- **Languages**: C, HTML/CSS, JavaScript  
+- **Tools**: Git, SDL, Figma  
+- **Focus Areas**: Web Development, Algorithms, UX Design  
+
+---
+
+## 🌱 Current Goals  
+- Deepen my expertise in **full-stack development**.  
+- Advocate for **Green IT** by promoting sustainable coding practices.  
+
+---
+
+## 📫 Let's Connect!  
+💼 [**LinkedIn**](https://www.linkedin.com/in/bryan/)  
+🌐 [**GitHub**](https://github.com/BrB93)  
+✉️ **Email:** [brb93@gmail.com](mailto:brb93@gmail.com)  
+
+---
+
+![Footer](https://via.placeholder.com/800x100?text=Let%27s+Collaborate!)
