@@ -1,24 +1,47 @@
-👋 Welcome to My GitHub Profile!
-🚀 About Me
-Bonjour, je m'appelle Bryan, un développeur passionné en pleine reconversion, étudiant à l'école Coda Orléans. Avec une forte appétence pour les technologies modernes et une capacité à apprendre rapidement, je me concentre sur des projets concrets pour affiner mes compétences en programmation et répondre aux défis du monde numérique.
 
-💡 Projects and Highlights
-🌟 Fais pas ta pince
-Un site web dédié au partage d'outils entre voisins, favorisant l'économie collaborative et la durabilité. Développement orienté utilisateur avec un design responsive et fonctionnel.
 
-⚙️ AutO-RekO
-Contribution stratégique à un outil d’énumération automatique pour les tests de pénétration. Mon rôle : fournir des informations clés et un support méthodologique.
+# 👋 Welcome to My GitHub Profile!  
 
-🎮 Game Development
-Création de jeux rétro (Tic-Tac-Toe, Snake, Sokoban) en langage C, avec gestion des graphismes et des mécaniques de jeu, visibles dans mes repositories.
+![Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
 
-📚 Skills
-Langages : C, HTML/CSS, JavaScript
-Outils : Git, SDL, Figma
-Compétences : Développement Web, Algorithmique, Expérience Utilisateur (UX)
-🌱 Learning Goals
-Green IT pour réduire l'impact environnemental des projets numériques
-Approfondir mes compétences en développement web full-stack
-📫 Contact Me
-💼 LinkedIn
-🌐 GitHub Portfolio
+## 🚀 About Me  
+**Hello, I'm Bryan**, a passionate developer in career transition, currently studying at **Coda Orléans**.  
+🌱 I thrive on learning modern technologies and building real-world projects to sharpen my programming skills and tackle digital challenges.  
+
+---
+
+## 💡 Projects and Highlights  
+### 🌟 [Fais pas ta pince](https://github.com/BrB93/Fais-pas-ta-pince)  
+A web platform for tool sharing among neighbors, promoting **collaborative economy** and sustainability. Designed with responsive and user-focused principles.
+
+### ⚙️ [AutO-RekO](https://github.com/rattus-digitalis/Autoreko)  
+Strategic contribution to an **automatic enumeration tool** for penetration testing. My role involved providing key insights and methodological support.
+
+### 🎮 Game Development  
+Retro games like **Tic-Tac-Toe**, **Snake**, and **Sokoban** developed in C. Check out the repositories for gameplay mechanics and graphics!  
+
+---
+
+## 📚 Skills  
+- **Languages:** C, HTML/CSS, JavaScript  
+- **Tools:** Git, SDL, Figma  
+- **Strengths:** Web Development, Algorithms, UX Design  
+
+---
+
+## 🌱 Learning Goals  
+- **Green IT**: Reducing the environmental impact of digital projects.  
+- Strengthening **full-stack web development** skills.  
+
+---
+
+## 📫 Contact Me  
+💼 [**LinkedIn**](https://www.linkedin.com/in/bryan/)  
+🌐 [**GitHub Portfolio**](https://github.com/BrB93)  
+✉️ **Email:** [brb93@gmail.com](mailto:brb93@gmail.com)  
+
+---
+
+![Footer](https://via.placeholder.com/800x100?text=Let%27s+Collaborate!)
+
+---
