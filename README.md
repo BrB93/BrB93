@@ -1,7 +1,5 @@
 # 👋 Welcome to My GitHub Profile!
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
-
 ## 🚀 About Me  
 **Hi, I'm Bryan!**  
 🎓 Passionate about coding and currently transitioning into a tech career through my studies at **Coda Orléans**.  
@@ -35,10 +33,6 @@ Developed classic games like **Tic-Tac-Toe**, **Snake**, and **Sokoban** in C, s
 ---
 
 ## 📫 Let's Connect!  
-💼 [**LinkedIn**](https://www.linkedin.com/in/bryan/)  
+💼 [**LinkedIn**](https://www.linkedin.com/in/bryan-brik/)  
 🌐 [**GitHub**](https://github.com/BrB93)  
-✉️ **Email:** [brb93@gmail.com](mailto:brb93@gmail.com)
-
----
-
-![Footer](https://via.placeholder.com/800x100.png?text=Let%27s+Collaborate!)
+✉️ **Email:** [bryanbrik@gmail.com](mailto:bryanbrik@gmail.com)
