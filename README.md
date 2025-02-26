@@ -1,13 +1,11 @@
+# 👋 Welcome to My GitHub Profile!
 
-
-# 👋 Welcome to My GitHub Profile!  
-
-![Banner](https://via.placeholder.com/800x200?text=Welcome+to+my+GitHub+Profile)
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)
 
 ## 🚀 About Me  
 **Hi, I'm Bryan!**  
 🎓 Passionate about coding and currently transitioning into a tech career through my studies at **Coda Orléans**.  
-✨ I focus on creating efficient, sustainable, and user-friendly solutions.  
+✨ I focus on creating efficient, sustainable, and user-friendly solutions.
 
 ---
 
@@ -32,15 +30,15 @@ Developed classic games like **Tic-Tac-Toe**, **Snake**, and **Sokoban** in C, s
 
 ## 🌱 Current Goals  
 - Deepen my expertise in **full-stack development**.  
-- Advocate for **Green IT** by promoting sustainable coding practices.  
+- Advocate for **Green IT** by promoting sustainable coding practices.
 
 ---
 
 ## 📫 Let's Connect!  
 💼 [**LinkedIn**](https://www.linkedin.com/in/bryan/)  
 🌐 [**GitHub**](https://github.com/BrB93)  
-✉️ **Email:** [brb93@gmail.com](mailto:brb93@gmail.com)  
+✉️ **Email:** [brb93@gmail.com](mailto:brb93@gmail.com)
 
 ---
 
-![Footer](https://via.placeholder.com/800x100?text=Let%27s+Collaborate!)
+![Footer](https://via.placeholder.com/800x100.png?text=Let%27s+Collaborate!)
